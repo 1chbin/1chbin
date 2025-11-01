@@ -37,7 +37,7 @@ const joaquin = {
 - AI Automations and intelligent workflows
 - Advanced animation techniques
 
-🤝 **Looking to Collaborate**
+👯 **Looking to Collaborate**
 - **Solkem System** - Open to exciting opportunities!
 
 ---
@@ -85,7 +85,9 @@ const joaquin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
+![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1chb1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1chb1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
@@ -113,7 +115,6 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-allue-b3a60a272/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
