@@ -80,17 +80,6 @@ const joaquin = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-
-</div>
-
----
 
 ## 🎯 What I Bring to the Table
 
