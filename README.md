@@ -37,7 +37,7 @@ const joaquin = {
 - AI Automations and intelligent workflows
 - Advanced animation techniques
 
-👯 **Looking to Collaborate**
+🤝 **Looking to Collaborate**
 - **Solkem System** - Open to exciting opportunities!
 
 ---
@@ -109,6 +109,6 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1chb1n&color=F85D7F&style=flat-square)
 
-⭐️ From [Joaquin Allue](https://github.com/1chb1n)
+⭐️ From [Joaquin Allue](https://github.com/1chbin)
 
 </div>
