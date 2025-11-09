@@ -6,7 +6,6 @@
 
 *Passionate about crafting beautiful, user-centric web experiences*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-allue-b3a60a272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
