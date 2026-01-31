@@ -6,7 +6,7 @@
 
 *Passionate about crafting beautiful, user-centric web experiences*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-v2-inky.vercel.app/)
 
 </div>
 
