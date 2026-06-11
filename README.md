@@ -38,6 +38,7 @@ const joaquin = {
 
 🤝 **Looking to Collaborate**
 - **Solkem System** - Open to exciting opportunities!
+- **Eskas System** - A rapidly growing import system
 
 ---
 
