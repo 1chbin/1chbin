@@ -31,6 +31,7 @@ const joaquin = {
 
 🔭 **Currently Working On**
 - **OrbitProgram** - Pushing the boundaries of web development
+- **SAGE** - An event management application with integrated AI
 
 🌱 **Currently Learning**
 - AI Automations and intelligent workflows
