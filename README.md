@@ -29,6 +29,11 @@ const joaquin = {
 
 ## 💼 Current Projects & Interests
 
+
+🤝 **Commercial Projects**
+- **Solkem System** - Open to exciting opportunities!
+- **Eskas System** - A rapidly growing import system
+
 🔭 **Currently Working On**
 - **OrbitProgram** - Pushing the boundaries of web development
 - **SAGE** - An event management application with integrated AI
@@ -36,10 +41,6 @@ const joaquin = {
 🌱 **Currently Learning**
 - AI Automations and intelligent workflows
 - Advanced animation techniques
-
-🤝 **Looking to Collaborate**
-- **Solkem System** - Open to exciting opportunities!
-- **Eskas System** - A rapidly growing import system
 
 ---
 
