@@ -110,8 +110,4 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ### 💭 *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
 
-![Profile Views](https://komarev.com/ghpvc/?username=1chb1n&color=F85D7F&style=flat-square)
-
-⭐️ From [Joaquin Allue](https://github.com/1chbin)
-
 </div>
